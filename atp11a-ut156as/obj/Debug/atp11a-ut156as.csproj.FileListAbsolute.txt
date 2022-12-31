@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\bin\Debug\atp11a-ut156as.exe.config
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\bin\Debug\atp11a-ut156as.exe
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\bin\Debug\atp11a-ut156as.pdb
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\obj\Debug\atp11a-ut156as.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\obj\Debug\atp11a-ut156as.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\obj\Debug\atp11a_ut156as.Form1.resources
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\obj\Debug\atp11a_ut156as.Properties.Resources.resources
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\obj\Debug\atp11a-ut156as.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\obj\Debug\atp11a-ut156as.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\obj\Debug\atp11a-ut156as.exe
+C:\Users\PC\source\repos\atp11a-ut156as\atp11a-ut156as\obj\Debug\atp11a-ut156as.pdb
